@@ -29,7 +29,7 @@ export const projectsData = [
     projectDesc: "This project is easy YouTube Clone.",
     tags: ["React", "CSS", "YouTube API"],
     code: "https://github.com/ruslancoderuzb2204/youtube",
-    demo: "https://travel-agency-fc58b.web.app/",
+    demo: "https://youtube-clone-ruslan.vercel.app/",
     image: eight,
   },
 ];
