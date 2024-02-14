@@ -14,7 +14,7 @@ export const experienceData = [
   //     endYear: 'Jan 2022'
   // },
   {
-    id: 3,
+    id: 2,
     company: "Learning New Technology For Everyday",
     jobtitle: "Self Learning",
     startYear: "2022",
