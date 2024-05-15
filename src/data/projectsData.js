@@ -25,11 +25,11 @@ export const projectsData = [
   },
   {
     id: 3,
-    projectName: "YouTube Clone",
-    projectDesc: "This project is easy YouTube Clone.",
-    tags: ["React", "CSS", "YouTube API"],
-    code: "https://github.com/ruslancoderuzb2204/youtube",
-    demo: "https://youtube-clone-ruslan.vercel.app/",
+    projectName: "Brainwave",
+    projectDesc: "This project is easy Landing Page.",
+    tags: ["React",  "Tailwind"],
+    code: "https://github.com/ruslancoderuzb2204/brainwave.git",
+    demo: "https://brainwave-gamma-ten.vercel.app",
     image: eight,
   },
 ];
